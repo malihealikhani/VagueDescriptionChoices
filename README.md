@@ -1,6 +1,7 @@
 # The Influence of Alternative Terms on Speakers’ Choice of Vague Description 
 
 by Malihe Alikhani, Kimele Persaud, Kevin Pei, Brian McMahan, Pernille Hemmer, Matthew Stone
+
 In submission, Journal of Discourse Processes
 
 ## Introduction
