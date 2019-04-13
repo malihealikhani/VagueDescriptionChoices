@@ -1,0 +1,361 @@
+,response,stimuli,trial_type,workerid,stimuli_index,condition_index,latin_square_index
+132,Not Likely,0.147540984,probability-language-generation,S24766,18,0,0
+133,somewhatLikely,0.31147541,probability-language-generation,S24766,18,0,0
+134,Extremely Likely,0.967213115,probability-language-generation,S24766,18,0,0
+135,Very Likely,0.475409836,probability-language-generation,S24766,18,0,0
+136,quiteLikely,0.803278689,probability-language-generation,S24766,18,0,0
+137,prettyLikely,0.639344262,probability-language-generation,S24766,18,0,0
+216,VeryPossible,0.262295082,probability-language-generation,S12408,25,0,1
+217,aslightbitlessPossible,0.426229508,probability-language-generation,S12408,25,0,1
+218,onlyaslimchance,0.098360656,probability-language-generation,S12408,25,0,1
+219,aVerygoodchance,0.590163934,probability-language-generation,S12408,25,0,1
+220,highlyPossible,0.918032787,probability-language-generation,S12408,25,0,1
+221,Veryprobable,0.754098361,probability-language-generation,S12408,25,0,1
+318,Likely,0.524590164,probability-language-generation,S11642,21,0,3
+319,almostcertain,0.68852459,probability-language-generation,S11642,21,0,3
+320,smallchance,0.360655738,probability-language-generation,S11642,21,0,3
+321,Extremely Likely,0.852459016,probability-language-generation,S11642,21,0,3
+322,Unlikely,0.196721311,probability-language-generation,S11642,21,0,3
+323,Verylittlechance,0.032786885,probability-language-generation,S11642,21,0,3
+402,moderatelyLikely,0.327868852,probability-language-generation,S26925,19,0,1
+403,Likely,0.491803279,probability-language-generation,S26925,19,0,1
+404,Unlikely,0.163934426,probability-language-generation,S26925,19,0,1
+405,Very Likely,0.655737705,probability-language-generation,S26925,19,0,1
+406,Extremely Likely,0.983606557,probability-language-generation,S26925,19,0,1
+407,Very Likely,0.819672131,probability-language-generation,S26925,19,0,1
+426,lessLikely,0.196721311,probability-language-generation,S47634,1,0,1
+427,Likely,0.360655738,probability-language-generation,S47634,1,0,1
+428,leastLikely,0.032786885,probability-language-generation,S47634,1,0,1
+429,mostLikely,0.524590164,probability-language-generation,S47634,1,0,1
+430,almostsure,0.852459016,probability-language-generation,S47634,1,0,1
+431,Likely,0.68852459,probability-language-generation,S47634,1,0,1
+444,rotateclockwisesomedegrees.,0.852459016,probability-language-generation,S42400,11,0,5
+445,rotatetoyouroppositeside,0.032786885,probability-language-generation,S42400,11,0,5
+446,rotatetoyoursemioppositeside,0.68852459,probability-language-generation,S42400,11,0,5
+447,rotatetoyouroppositeside,0.196721311,probability-language-generation,S42400,11,0,5
+448,rotatetoyoursemioppositeside,0.524590164,probability-language-generation,S42400,11,0,5
+449,rotatetoyouroppositeside,0.360655738,probability-language-generation,S42400,11,0,5
+456,Likely,0.803278689,probability-language-generation,S79231,28,0,4
+457,almostcertain,0.967213115,probability-language-generation,S79231,28,0,4
+458,Possible,0.639344262,probability-language-generation,S79231,28,0,4
+459,Unlikely,0.147540984,probability-language-generation,S79231,28,0,4
+460,Possible,0.475409836,probability-language-generation,S79231,28,0,4
+461,Not Likely,0.31147541,probability-language-generation,S79231,28,0,4
+522,virtualyacertainty,0.983606557,probability-language-generation,S91209,29,0,5
+523,difficult,0.163934426,probability-language-generation,S91209,29,0,5
+524,easy,0.819672131,probability-language-generation,S91209,29,0,5
+525,Possible,0.327868852,probability-language-generation,S91209,29,0,5
+526,Very Likely,0.655737705,probability-language-generation,S91209,29,0,5
+527,Likely,0.491803279,probability-language-generation,S91209,29,0,5
+678,Somewhat Likely,0.37704918,probability-language-generation,S57040,2,0,2
+679,Likely,0.540983607,probability-language-generation,S57040,2,0,2
+680,Somewhat Unlikely,0.213114754,probability-language-generation,S57040,2,0,2
+681,Likely,0.704918033,probability-language-generation,S57040,2,0,2
+682,Very Unlikely,0.049180328,probability-language-generation,S57040,2,0,2
+683,Very Likely,0.868852459,probability-language-generation,S57040,2,0,2
+720,Not Likely,0.475409836,probability-language-generation,S29514,8,0,2
+721,morethanmoderatelyPossible,0.639344262,probability-language-generation,S29514,8,0,2
+722,NotthatPossible,0.31147541,probability-language-generation,S29514,8,0,2
+723,Very Likely,0.803278689,probability-language-generation,S29514,8,0,2
+724,almostimPossible,0.147540984,probability-language-generation,S29514,8,0,2
+725,almostdefinitely,0.967213115,probability-language-generation,S29514,8,0,2
+738,Unlikely,0.081967213,probability-language-generation,S22992,24,0,0
+739,Somewhat Unlikely,0.245901639,probability-language-generation,S22992,24,0,0
+740,Likely,0.901639344,probability-language-generation,S22992,24,0,0
+741,Somewhat Unlikely,0.409836066,probability-language-generation,S22992,24,0,0
+742,Likely,0.737704918,probability-language-generation,S22992,24,0,0
+743,Somewhat Likely,0.573770492,probability-language-generation,S22992,24,0,0
+876,Likely,0.885245902,probability-language-generation,S69341,23,0,5
+877,Unlikely,0.06557377,probability-language-generation,S69341,23,0,5
+878,Likely,0.721311475,probability-language-generation,S69341,23,0,5
+879,Unlikely,0.229508197,probability-language-generation,S69341,23,0,5
+880,Unlikely,0.557377049,probability-language-generation,S69341,23,0,5
+881,Unlikely,0.393442623,probability-language-generation,S69341,23,0,5
+912,Possible,0.295081967,probability-language-generation,S12784,7,0,1
+913,Possible,0.459016393,probability-language-generation,S12784,7,0,1
+914,NotPossible,0.131147541,probability-language-generation,S12784,7,0,1
+915,Possible,0.62295082,probability-language-generation,S12784,7,0,1
+916,guaranteed,0.950819672,probability-language-generation,S12784,7,0,1
+917,probable,0.786885246,probability-language-generation,S12784,7,0,1
+1026,Somewhat Likely,0.442622951,probability-language-generation,S34918,26,0,2
+1027,Likely,0.606557377,probability-language-generation,S34918,26,0,2
+1028,Not Very Likely,0.278688525,probability-language-generation,S34918,26,0,2
+1029,Very Likely,0.770491803,probability-language-generation,S34918,26,0,2
+1030,Not Likely,0.114754098,probability-language-generation,S34918,26,0,2
+1031,almostinevitable,0.93442623,probability-language-generation,S34918,26,0,2
+1050,Not Very Likely,0.409836066,probability-language-generation,S21487,14,0,2
+1051,Very Likely,0.573770492,probability-language-generation,S21487,14,0,2
+1052,Unlikely,0.245901639,probability-language-generation,S21487,14,0,2
+1053,mostLikely,0.737704918,probability-language-generation,S21487,14,0,2
+1054,Unlikely,0.081967213,probability-language-generation,S21487,14,0,2
+1055,mostLikely,0.901639344,probability-language-generation,S21487,14,0,2
+1128,lessLikely,0.344262295,probability-language-generation,S56269,20,0,2
+1129,slightlymorethanequallyLikely,0.508196721,probability-language-generation,S56269,20,0,2
+1130,Very Unlikely,0.180327869,probability-language-generation,S56269,20,0,2
+1131,morethanLikely,0.672131148,probability-language-generation,S56269,20,0,2
+1132,ExtremelyUnlikely,0.016393443,probability-language-generation,S56269,20,0,2
+1133,Very Likely,0.836065574,probability-language-generation,S56269,20,0,2
+1146,Unlikely,0.049180328,probability-language-generation,S8395,12,0,0
+1147,doubtful,0.213114754,probability-language-generation,S8395,12,0,0
+1148,Likely,0.868852459,probability-language-generation,S8395,12,0,0
+1149,Possible,0.37704918,probability-language-generation,S8395,12,0,0
+1150,probable,0.704918033,probability-language-generation,S8395,12,0,0
+1151,reasonable,0.540983607,probability-language-generation,S8395,12,0,0
+1152,Very Unlikely,0.114754098,probability-language-generation,S38247,6,0,0
+1153,Somewhat Unlikely,0.278688525,probability-language-generation,S38247,6,0,0
+1154,Extremely Likely,0.93442623,probability-language-generation,S38247,6,0,0
+1155,moderatelyLikely,0.442622951,probability-language-generation,S38247,6,0,0
+1156,Very Likely,0.770491803,probability-language-generation,S38247,6,0,0
+1157,Very Likely,0.606557377,probability-language-generation,S38247,6,0,0
+1236,probable,0.704918033,probability-language-generation,S3642,22,0,4
+1237,Veryprobable,0.868852459,probability-language-generation,S3642,22,0,4
+1238,slightlymoreLikelythanNot,0.540983607,probability-language-generation,S3642,22,0,4
+1239,Not Likely,0.049180328,probability-language-generation,S3642,22,0,4
+1240,Unlikely,0.37704918,probability-language-generation,S3642,22,0,4
+1241,Unlikely,0.213114754,probability-language-generation,S3642,22,0,4
+1254,Unlikely,0.016393443,probability-language-generation,S63687,0,0,0
+1255,Not Very Likely,0.180327869,probability-language-generation,S63687,0,0,0
+1256,Very Likely,0.836065574,probability-language-generation,S63687,0,0,0
+1257,Somewhat Likely,0.344262295,probability-language-generation,S63687,0,0,0
+1258,prettyLikely,0.672131148,probability-language-generation,S63687,0,0,0
+1259,aboutasLikely,0.508196721,probability-language-generation,S63687,0,0,0
+1433,alotLikely,0.62295082,probability-language-generation,S1755,27,0,3
+1434,alotLikely,0.786885246,probability-language-generation,S1755,27,0,3
+1435,lessthanahalfLikely,0.459016393,probability-language-generation,S1755,27,0,3
+1436,almostalwaysLikely,0.950819672,probability-language-generation,S1755,27,0,3
+1437,aquarterLikely,0.295081967,probability-language-generation,S1755,27,0,3
+1438,lessthanaquarterLikely,0.131147541,probability-language-generation,S1755,27,0,3
+1463,Not Very Likely,0.229508197,probability-language-generation,S86690,13,0,1
+1464,slightlylessLikelythanitisLikely,0.393442623,probability-language-generation,S86690,13,0,1
+1465,ExtremelyUnlikely,0.06557377,probability-language-generation,S86690,13,0,1
+1466,slightlymoreLikelythanNot,0.557377049,probability-language-generation,S86690,13,0,1
+1467,Very Likely,0.885245902,probability-language-generation,S86690,13,0,1
+1468,quiteLikely,0.721311475,probability-language-generation,S86690,13,0,1
+1505,Very Likely,0.918032787,probability-language-generation,S93987,5,0,5
+1506,Very Unlikely,0.098360656,probability-language-generation,S93987,5,0,5
+1507,Likely,0.754098361,probability-language-generation,S93987,5,0,5
+1508,Unlikely,0.262295082,probability-language-generation,S93987,5,0,5
+1509,quiteLikely,0.590163934,probability-language-generation,S93987,5,0,5
+1510,Not Likely,0.426229508,probability-language-generation,S93987,5,0,5
+1529,Very Likely,0.770491803,probability-language-generation,S75093,16,0,4
+1530,incRediblyLikely,0.93442623,probability-language-generation,S75093,16,0,4
+1531,Somewhat Likely,0.606557377,probability-language-generation,S75093,16,0,4
+1532,Not Very Likely,0.114754098,probability-language-generation,S75093,16,0,4
+1533,NottooLikely,0.442622951,probability-language-generation,S75093,16,0,4
+1534,Unlikely,0.278688525,probability-language-generation,S75093,16,0,4
+1565,alittlemoreLikely,0.672131148,probability-language-generation,S22378,10,0,4
+1566,alotmoreLikely,0.836065574,probability-language-generation,S22378,10,0,4
+1567,aboutahalfprobability,0.508196721,probability-language-generation,S22378,10,0,4
+1568,aVerysmallchance,0.016393443,probability-language-generation,S22378,10,0,4
+1569,alittlelessthanhalfchance,0.344262295,probability-language-generation,S22378,10,0,4
+1570,aprettysmallchance,0.180327869,probability-language-generation,S22378,10,0,4
+1661,Very Likely,0.737704918,probability-language-generation,S84540,4,0,4
+1662,Extremely Likely,0.901639344,probability-language-generation,S84540,4,0,4
+1663,Likely,0.573770492,probability-language-generation,S84540,4,0,4
+1664,Very Unlikely,0.081967213,probability-language-generation,S84540,4,0,4
+1665,Unlikely,0.409836066,probability-language-generation,S84540,4,0,4
+1666,moderatelyUnlikely,0.245901639,probability-language-generation,S84540,4,0,4
+2051,alittlemoreLikelythanNot,0.590163934,probability-language-generation,S44649,15,0,3
+2052,Likely,0.754098361,probability-language-generation,S44649,15,0,3
+2053,Somewhat Unlikely,0.426229508,probability-language-generation,S44649,15,0,3
+2054,Very Likely,0.918032787,probability-language-generation,S44649,15,0,3
+2055,Unlikely,0.262295082,probability-language-generation,S44649,15,0,3
+2056,Very Unlikely,0.098360656,probability-language-generation,S44649,15,0,3
+2063,moreLikelythanNot,0.655737705,probability-language-generation,S43678,9,0,3
+2064,muchmoreLikelythanNot,0.819672131,probability-language-generation,S43678,9,0,3
+2065,slightlylessLikelythanNot,0.491803279,probability-language-generation,S43678,9,0,3
+2066,almostguaranteed,0.983606557,probability-language-generation,S43678,9,0,3
+2067,probablyNot Likely,0.327868852,probability-language-generation,S43678,9,0,3
+2068,Not Likely,0.163934426,probability-language-generation,S43678,9,0,3
+2135,extreamlyLikely,0.950819672,probability-language-generation,S4508,17,0,5
+2136,Not Likelybutthereisasmallpossibility,0.131147541,probability-language-generation,S4508,17,0,5
+2137,Very Likely,0.786885246,probability-language-generation,S4508,17,0,5
+2138,moderatelyLikely,0.295081967,probability-language-generation,S4508,17,0,5
+2139,alittlemorethanhalfasLikelyasNot,0.62295082,probability-language-generation,S4508,17,0,5
+2140,lessthanhalfasLikely,0.459016393,probability-language-generation,S4508,17,0,5
+2177,Likely,0.737704918,probability-language-generation,S27587,4,0,4
+2178,Very Likely,0.901639344,probability-language-generation,S27587,4,0,4
+2179,probable,0.573770492,probability-language-generation,S27587,4,0,4
+2180,Not Likely,0.081967213,probability-language-generation,S27587,4,0,4
+2181,Notprobable,0.409836066,probability-language-generation,S27587,4,0,4
+2182,Unlikely,0.245901639,probability-language-generation,S27587,4,0,4
+2225,Very Likely,0.557377049,probability-language-generation,S64856,3,0,3
+2226,Somewhat Likely,0.721311475,probability-language-generation,S64856,3,0,3
+2227,slightlyUnlikely,0.393442623,probability-language-generation,S64856,3,0,3
+2228,Very Likely,0.885245902,probability-language-generation,S64856,3,0,3
+2229,NotthatLikely,0.229508197,probability-language-generation,S64856,3,0,3
+2230,hardlyLikely,0.06557377,probability-language-generation,S64856,3,0,3
+2315,Likely,0.885245902,probability-language-generation,S96192,23,0,5
+2316,Not Likely,0.06557377,probability-language-generation,S96192,23,0,5
+2317,Likely,0.721311475,probability-language-generation,S96192,23,0,5
+2318,Possible,0.229508197,probability-language-generation,S96192,23,0,5
+2319,Possible,0.557377049,probability-language-generation,S96192,23,0,5
+2320,Possible,0.393442623,probability-language-generation,S96192,23,0,5
+2339,abetterthanhalfchance,0.655737705,probability-language-generation,S37212,9,0,3
+2340,Verygoodchance,0.819672131,probability-language-generation,S37212,9,0,3
+2341,Possible,0.491803279,probability-language-generation,S37212,9,0,3
+2342,almostcertain,0.983606557,probability-language-generation,S37212,9,0,3
+2343,slightchance,0.327868852,probability-language-generation,S37212,9,0,3
+2344,Veryslightchance,0.163934426,probability-language-generation,S37212,9,0,3
+2393,Somewhat Likely,0.262295082,probability-language-generation,S17002,25,0,1
+2394,halfLikely,0.426229508,probability-language-generation,S17002,25,0,1
+2395,Not Likely,0.098360656,probability-language-generation,S17002,25,0,1
+2396,moreLikely,0.590163934,probability-language-generation,S17002,25,0,1
+2397,Very Likely,0.918032787,probability-language-generation,S17002,25,0,1
+2398,Likely,0.754098361,probability-language-generation,S17002,25,0,1
+2453,Unlikely,0.196721311,probability-language-generation,S37317,1,0,1
+2454,moderatelyUnlikely,0.360655738,probability-language-generation,S37317,1,0,1
+2455,ExtremelyUnlikely,0.032786885,probability-language-generation,S37317,1,0,1
+2456,moreLikely,0.524590164,probability-language-generation,S37317,1,0,1
+2457,Extremely Likely,0.852459016,probability-language-generation,S37317,1,0,1
+2458,mostLikely,0.68852459,probability-language-generation,S37317,1,0,1
+2675,Unlikely,0.114754098,probability-language-generation,S96157,6,0,0
+2676,Not Likely,0.278688525,probability-language-generation,S96157,6,0,0
+2677,Very Likely,0.93442623,probability-language-generation,S96157,6,0,0
+2678,Likely,0.442622951,probability-language-generation,S96157,6,0,0
+2679,Likely,0.770491803,probability-language-generation,S96157,6,0,0
+2680,moreLikelythanNot,0.606557377,probability-language-generation,S96157,6,0,0
+2759,NotVeryprobable,0.049180328,probability-language-generation,S74075,12,0,0
+2760,Somewhatprobable,0.213114754,probability-language-generation,S74075,12,0,0
+2761,Very Likely,0.868852459,probability-language-generation,S74075,12,0,0
+2762,Somewhat Likely,0.37704918,probability-language-generation,S74075,12,0,0
+2763,mostlyLikely,0.704918033,probability-language-generation,S74075,12,0,0
+2764,Likely,0.540983607,probability-language-generation,S74075,12,0,0
+3011,Extremely Likely,0.950819672,probability-language-generation,S30151,17,0,5
+3012,SomewhatPossible,0.131147541,probability-language-generation,S30151,17,0,5
+3013,aprobability,0.786885246,probability-language-generation,S30151,17,0,5
+3014,Somewhat Likely,0.295081967,probability-language-generation,S30151,17,0,5
+3015,mostLikely,0.62295082,probability-language-generation,S30151,17,0,5
+3016,highlyPossible,0.459016393,probability-language-generation,S30151,17,0,5
+3017,Likely,0.147540984,probability-language-generation,S61914,18,0,0
+3018,Likely,0.31147541,probability-language-generation,S61914,18,0,0
+3019,highlyLikely,0.967213115,probability-language-generation,S61914,18,0,0
+3020,mostwhatLikely,0.475409836,probability-language-generation,S61914,18,0,0
+3021,Very Likely,0.803278689,probability-language-generation,S61914,18,0,0
+3022,Likely,0.639344262,probability-language-generation,S61914,18,0,0
+3035,lessLikely,0.442622951,probability-language-generation,S56202,26,0,2
+3036,moreLikely,0.606557377,probability-language-generation,S56202,26,0,2
+3037,Not Very Likely,0.278688525,probability-language-generation,S56202,26,0,2
+3038,Very Likely,0.770491803,probability-language-generation,S56202,26,0,2
+3039,Very Unlikely,0.114754098,probability-language-generation,S56202,26,0,2
+3040,Extremely Likely,0.93442623,probability-language-generation,S56202,26,0,2
+3071,Likely,0.918032787,probability-language-generation,S27882,5,0,5
+3072,Unlikely,0.098360656,probability-language-generation,S27882,5,0,5
+3073,probable,0.754098361,probability-language-generation,S27882,5,0,5
+3074,fairlyUnlikely,0.262295082,probability-language-generation,S27882,5,0,5
+3075,moderatelyLikely,0.590163934,probability-language-generation,S27882,5,0,5
+3076,Somewhat Unlikely,0.426229508,probability-language-generation,S27882,5,0,5
+3107,Somewhat Likely,0.590163934,probability-language-generation,S82868,15,0,3
+3108,Very Likely,0.754098361,probability-language-generation,S82868,15,0,3
+3109,Somewhat Unlikely,0.426229508,probability-language-generation,S82868,15,0,3
+3110,almostcertain,0.918032787,probability-language-generation,S82868,15,0,3
+3111,Not Likely,0.262295082,probability-language-generation,S82868,15,0,3
+3112,Very Unlikely,0.098360656,probability-language-generation,S82868,15,0,3
+3299,Not Likely,0.37704918,probability-language-generation,S82363,2,0,2
+3300,almostequal,0.540983607,probability-language-generation,S82363,2,0,2
+3301,Unlikely,0.213114754,probability-language-generation,S82363,2,0,2
+3302,Somewhat Likely,0.704918033,probability-language-generation,S82363,2,0,2
+3303,Not Likely,0.049180328,probability-language-generation,S82363,2,0,2
+3304,Very Likely,0.868852459,probability-language-generation,S82363,2,0,2
+3323,fairlyLikely,0.409836066,probability-language-generation,S83303,14,0,2
+3324,Very Likely,0.573770492,probability-language-generation,S83303,14,0,2
+3325,Not Very Likely,0.245901639,probability-language-generation,S83303,14,0,2
+3326,highlyprobable,0.737704918,probability-language-generation,S83303,14,0,2
+3327,Very Unlikely,0.081967213,probability-language-generation,S83303,14,0,2
+3328,Extremely Likely,0.901639344,probability-language-generation,S83303,14,0,2
+3383,Likely,0.475409836,probability-language-generation,S2782,8,0,2
+3384,highlyLikely,0.639344262,probability-language-generation,S2782,8,0,2
+3385,Not Likely,0.31147541,probability-language-generation,S2782,8,0,2
+3386,almostcertain,0.803278689,probability-language-generation,S2782,8,0,2
+3387,Very Unlikely,0.147540984,probability-language-generation,S2782,8,0,2
+3388,almostpositivelyLikely,0.967213115,probability-language-generation,S2782,8,0,2
+3419,Not Very Likely,0.016393443,probability-language-generation,S12257,0,0,0
+3420,Likelyaboutaquarterofthetime,0.180327869,probability-language-generation,S12257,0,0,0
+3421,Very Likely,0.836065574,probability-language-generation,S12257,0,0,0
+3422,Likelythatslightlylessthanhalfthetime,0.344262295,probability-language-generation,S12257,0,0,0
+3423,mostofthetime,0.672131148,probability-language-generation,S12257,0,0,0
+3424,halfthetime,0.508196721,probability-language-generation,S12257,0,0,0
+3539,Likely,0.803278689,probability-language-generation,S34600,28,0,4
+3540,Likely,0.967213115,probability-language-generation,S34600,28,0,4
+3541,slightlyLikely,0.639344262,probability-language-generation,S34600,28,0,4
+3542,Unlikely,0.147540984,probability-language-generation,S34600,28,0,4
+3543,itequallyLikely,0.475409836,probability-language-generation,S34600,28,0,4
+3544,slightlyUnlikely,0.31147541,probability-language-generation,S34600,28,0,4
+3557,Likely,0.770491803,probability-language-generation,S44174,16,0,4
+3558,highly,0.93442623,probability-language-generation,S44174,16,0,4
+3559,prettyLikely,0.606557377,probability-language-generation,S44174,16,0,4
+3560,Unlikely,0.114754098,probability-language-generation,S44174,16,0,4
+3561,halfwayLikely,0.442622951,probability-language-generation,S44174,16,0,4
+3562,questionable,0.278688525,probability-language-generation,S44174,16,0,4
+3605,Extremely Likely,0.983606557,probability-language-generation,S34982,29,0,5
+3606,Unlikely,0.163934426,probability-language-generation,S34982,29,0,5
+3607,Likely,0.819672131,probability-language-generation,S34982,29,0,5
+3608,Likely,0.327868852,probability-language-generation,S34982,29,0,5
+3609,Very Likely,0.655737705,probability-language-generation,S34982,29,0,5
+3610,unsure,0.491803279,probability-language-generation,S34982,29,0,5
+3623,Unlikely,0.081967213,probability-language-generation,S81563,24,0,0
+3624,Possible,0.245901639,probability-language-generation,S81563,24,0,0
+3625,Likely,0.901639344,probability-language-generation,S81563,24,0,0
+3626,Somewhat Unlikely,0.409836066,probability-language-generation,S81563,24,0,0
+3627,Very Likely,0.737704918,probability-language-generation,S81563,24,0,0
+3628,Somewhat Likely,0.573770492,probability-language-generation,S81563,24,0,0
+3677,Not Likely,0.327868852,probability-language-generation,S96038,19,0,1
+3678,halfLikely,0.491803279,probability-language-generation,S96038,19,0,1
+3679,Not Very Likely,0.163934426,probability-language-generation,S96038,19,0,1
+3680,Very Likely,0.655737705,probability-language-generation,S96038,19,0,1
+3681,almostinevitable,0.983606557,probability-language-generation,S96038,19,0,1
+3682,Very Likely,0.819672131,probability-language-generation,S96038,19,0,1
+3689,Somewhat Likely,0.524590164,probability-language-generation,S83132,21,0,3
+3690,Very Likely,0.68852459,probability-language-generation,S83132,21,0,3
+3691,lessthanLikely,0.360655738,probability-language-generation,S83132,21,0,3
+3692,Extremely Likely,0.852459016,probability-language-generation,S83132,21,0,3
+3693,Not Very Likely,0.196721311,probability-language-generation,S83132,21,0,3
+3694,Verydoubtful,0.032786885,probability-language-generation,S83132,21,0,3
+3791,probable,0.672131148,probability-language-generation,S10017,10,0,4
+3792,morethanLikely,0.836065574,probability-language-generation,S10017,10,0,4
+3793,atnearevenodds,0.508196721,probability-language-generation,S10017,10,0,4
+3794,almostentirelyUnlikely,0.016393443,probability-language-generation,S10017,10,0,4
+3795,sometimescommon,0.344262295,probability-language-generation,S10017,10,0,4
+3796,UnlikelybutNotuncommon,0.180327869,probability-language-generation,S10017,10,0,4
+3845,half,0.344262295,probability-language-generation,S49433,20,0,2
+3846,half,0.508196721,probability-language-generation,S49433,20,0,2
+3847,half,0.180327869,probability-language-generation,S49433,20,0,2
+3848,half,0.672131148,probability-language-generation,S49433,20,0,2
+3849,half,0.016393443,probability-language-generation,S49433,20,0,2
+3850,half,0.836065574,probability-language-generation,S49433,20,0,2
+3911,morethanLikely,0.704918033,probability-language-generation,S67958,22,0,4
+3912,mostLikely,0.868852459,probability-language-generation,S67958,22,0,4
+3913,thereisafairchance,0.540983607,probability-language-generation,S67958,22,0,4
+3914,Very Unlikely,0.049180328,probability-language-generation,S67958,22,0,4
+3915,afairchance,0.37704918,probability-language-generation,S67958,22,0,4
+3916,asmallchance,0.213114754,probability-language-generation,S67958,22,0,4
+3977,rare,0.229508197,probability-language-generation,S77555,13,0,1
+3978,difficult,0.393442623,probability-language-generation,S77555,13,0,1
+3979,hard,0.06557377,probability-language-generation,S77555,13,0,1
+3980,evident,0.557377049,probability-language-generation,S77555,13,0,1
+3981,obvious,0.885245902,probability-language-generation,S77555,13,0,1
+3982,easy,0.721311475,probability-language-generation,S77555,13,0,1
+4091,fairlyLikely,0.557377049,probability-language-generation,S69112,3,0,3
+4092,Very Likely,0.721311475,probability-language-generation,S69112,3,0,3
+4093,Somewhat Likely,0.393442623,probability-language-generation,S69112,3,0,3
+4094,almostcertain,0.885245902,probability-language-generation,S69112,3,0,3
+4095,Unlikely,0.229508197,probability-language-generation,S69112,3,0,3
+4096,Very Unlikely,0.06557377,probability-language-generation,S69112,3,0,3
+4205,Notprobable,0.295081967,probability-language-generation,S80662,7,0,1
+4206,moreprobable,0.459016393,probability-language-generation,S80662,7,0,1
+4207,Notatallprobable,0.131147541,probability-language-generation,S80662,7,0,1
+4208,highlyprobable,0.62295082,probability-language-generation,S80662,7,0,1
+4209,completelyPossible,0.950819672,probability-language-generation,S80662,7,0,1
+4210,mostPossible,0.786885246,probability-language-generation,S80662,7,0,1
+4241,Very Likely,0.852459016,probability-language-generation,S61225,11,0,5
+4242,ExtremelyUnlikely,0.032786885,probability-language-generation,S61225,11,0,5
+4243,quiteLikely,0.68852459,probability-language-generation,S61225,11,0,5
+4244,Somewhat Unlikely,0.196721311,probability-language-generation,S61225,11,0,5
+4245,Likely,0.524590164,probability-language-generation,S61225,11,0,5
+4246,quiteUnlikely,0.360655738,probability-language-generation,S61225,11,0,5
+4283,Likely,0.62295082,probability-language-generation,S71049,27,0,3
+4284,prettyLikely,0.786885246,probability-language-generation,S71049,27,0,3
+4285,Unlikely,0.459016393,probability-language-generation,S71049,27,0,3
+4286,Extremely Likely,0.950819672,probability-language-generation,S71049,27,0,3
+4287,prettyUnlikely,0.295081967,probability-language-generation,S71049,27,0,3
+4288,Very Unlikely,0.131147541,probability-language-generation,S71049,27,0,3
